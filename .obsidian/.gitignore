@@ -1,0 +1,12 @@
+# 缓存
+cache
+
+# Obsidian 本地状态（不同设备不需要同步）
+workspace.json
+workspaces.json
+workspace-mobile.json
+
+# 可选：其他不建议同步的文件
+daily-notes.json
+facets.json
+starred.json
