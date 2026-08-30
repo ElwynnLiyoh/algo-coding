@@ -1,5 +1,8 @@
 {
   "attachmentFolderPath": ".//assets",
   "promptDelete": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }
